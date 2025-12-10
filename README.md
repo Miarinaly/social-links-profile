@@ -29,4 +29,3 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Mys1337](https://www.frontendmentor.io/profile/Mys1337)
-- Twitter - [@Kirigamine21](https://twitter.com/miarinaly)
